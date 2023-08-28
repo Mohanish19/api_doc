@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
-  title: API Documentation
-  description: Documentation for the API endpoints.
+  title: Task Management API
+  description: An API for managing tasks and subtasks.
   version: 1.0.0
 
 servers:
